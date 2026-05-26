@@ -1,0 +1,5 @@
+br\com\controledegastos02\model\TipoLancamento.class
+br\com\controledegastos02\Controledegastos2Application.class
+br\com\controledegastos02\controller\LancamentoController.class
+br\com\controledegastos02\model\Lancamento.class
+br\com\controledegastos02\repository\LancamentoRepository.class
